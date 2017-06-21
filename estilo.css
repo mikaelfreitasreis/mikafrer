@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,800");
+
+html, butto {
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  background-color: gray;
+  color: white;
+}
+.vermelha {
+  background-color: #cf2227;
+  color: white;
+}
+.branca {
+color: #cf2227;
+}
+footer {
+    background-color: #cf2227;
+}
+button {
+      background-color: transparent;
+      color: white;
+      font-weight: bold;
+}
+header {
+  background-image: url("fundo.jpg");
+  font-weight: lighter;
+}
+h1, p {
+  font-weight: lighter;
+}
+.chamada {
+  font-size: 28px;
+  font-weight: lighter;
+}
+.data {
+  font-size: 37px;
+}
+.oi {
+  font-size: 50px;
+}
+.h2 {
+  font-size: 58px;
+  font-weight: bold;
+}
+header, section, footer {
+  padding: 20px 20px 70px 20px;
+}
+body {
+  margin: 0;
+}
+ul {
+  list-style-type:none;
+  padding-left: 0;
+}
+a {
+  text-decoration: none; 0;
+  font-weight: bold;
+}
+li {
+  display: inline;
+  padding: 10px;
+}
+img {
+  width: 900px;
+  max-width: 1000PX;
+  margin: auto;
+  display: block;
+}
